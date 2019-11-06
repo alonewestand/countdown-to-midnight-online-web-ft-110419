@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown(num)
+def countdown(num_num)
   count = num + 1 
   while count > num do
   puts count
