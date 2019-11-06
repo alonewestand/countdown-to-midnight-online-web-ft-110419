@@ -2,7 +2,7 @@
 
 def countdown(num_num)
   while num_num > 0 do
-  puts count
+  puts #{num_num}
   count - 2
 end
 end
