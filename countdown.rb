@@ -14,5 +14,5 @@ def countdown_with_sleep(num_num)
     num_num -= 1
     sleep 1
   end
-  HAPPY FLU BEER
+  "HAPPY FLU BEER"
 end
