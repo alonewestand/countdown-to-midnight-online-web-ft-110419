@@ -1,8 +1,7 @@
 #write your code here
 
 def countdown(num_num)
-  count = num + 1 
-  while count > num do
+  while count > 0 num do
   puts count
   count - 2
 end
